@@ -1,0 +1,20 @@
+<view class="wx_showData">
+</view>
+
+<view src="./buzzer.png" class="wx_connect"  bindtap="connectDevice">蓝牙连接</view>
+
+<!--index.wxml-->
+<!-- <label>
+      <text>{{motto}}</text>
+ </label>
+ </view>
+ <view class="wx_sendInput">
+  <view class="section__title">发送数据{{inputValue}}
+  <input  bindinput="bindKeyInput" placeholder="输入同步到view中"/>
+  </view>
+</view>
+<view class='container'>
+ <image  src="http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=3d2175db3cd3d539d530078052ee8325/b7003af33a87e950c1e1a6491a385343fbf2b425.jpg" class="wx_connect"  bindtap="connectDevice">蓝牙连接</image> 
+<button class="wx_sendData" bindtap="sendData">数据发送</button>
+</view> -->
+
